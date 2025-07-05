@@ -70,7 +70,7 @@ CREATE TABLE collisions (
 );
 ```
 ## How to Use
-### Import the Dataset
+1. ### Import the Dataset
 Clean and import your CSV dataset into the collisions table using SQL Server tools or scripts.
 
 ### Run Queries
