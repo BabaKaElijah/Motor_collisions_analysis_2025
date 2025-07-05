@@ -70,11 +70,11 @@ CREATE TABLE collisions (
 );
 ```
 ## How to Use
-1. Import the Dataset
+# Import the Dataset
 Clean and import your CSV dataset into the collisions table using SQL Server tools or scripts.
 
-2. Run Queries
+# Run Queries
 Use the provided SQL queries in this repository to explore and analyze the data.
 
-3. Extend Analysis
+# Extend Analysis
 Add your own queries to uncover deeper insights or to tailor the analysis to specific needs.
