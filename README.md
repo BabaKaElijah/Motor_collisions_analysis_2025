@@ -73,8 +73,17 @@ CREATE TABLE collisions (
 1. ### Import the Dataset
 Clean and import your CSV dataset into the collisions table using SQL Server tools or scripts.
 
-### Run Queries
+2. ### Run Queries
 Use the provided SQL queries in this repository to explore and analyze the data.
 
-### Extend Analysis
+3. ### Extend Analysis
 Add your own queries to uncover deeper insights or to tailor the analysis to specific needs.
+
+## Analysis Questions
+### Basic Analysis
+1. How many collisions occurred in total?
+```sql
+SELECT 
+COUNT(*) AS total_collions
+FROM Motor_Vehicle_Collisions_Vehicles
+```
